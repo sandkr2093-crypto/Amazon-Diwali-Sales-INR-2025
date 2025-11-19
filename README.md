@@ -122,3 +122,31 @@ Delivery delays
 
 Monthly sales remain consistent with minor fluctuations—indicating stable year-round demand.
 ## Dataset Description
+Dataset Name
+
+Amazon_Diwali_Sales_2025.csv
+
+📌 Columns & Definitions
+Column Name	Description
+Order_ID	Unique order identifier
+Product_Category	Category of product purchased
+State	Indian state where order was delivered
+Payment_Method	Credit Card, Debit Card, UPI, Cash on Delivery
+Delivery_Status	Delivered, Pending, Returned
+Review_Rating	Customer rating (1–5)
+Quantity	Units purchased
+Total_Sales_INR	Total revenue per order
+Date	Order date
+Month	Month name
+Customer_ID	Unique customer code
+📌 Dataset Summary
+
+Total Rows: ~15,000 orders
+
+Date Range: Entire year 2025
+
+Regions Covered: All major Indian states
+
+Currency: INR
+
+Source: Simulated e-commerce Diwali sales dataset
