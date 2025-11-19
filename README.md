@@ -91,3 +91,4 @@ Payment Method
 Delivery Status
 
 Date
+## Key Insights
