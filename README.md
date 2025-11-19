@@ -92,3 +92,32 @@ Delivery Status
 
 Date
 ## Key Insights
+1. Strong Festive Sales
+
+Diwali season showed ₹1.12B in total revenue—a strong indicator of festive demand across categories.
+
+⭐ 2. High Sales Across All Categories
+
+All 5 major categories performed almost equally (~₹220M each), showing balanced customer demand.
+
+⭐ 3. Payment Preferences are Balanced
+
+Customers use multiple payment methods, with a slight preference for Credit Card and UPI.
+
+⭐ 4. Delivery Success Rate is Low
+
+Only 33.83% orders are delivered — high pending and return counts indicate logistics issues during peak season.
+
+⭐ 5. Clothing has Lowest Rating
+
+Clothing category has lowest review rating (3.00), indicating:
+
+Size mismatch
+
+Quality concerns
+
+Delivery delays
+
+⭐ 6. Steady Monthly Sales Trend
+
+Monthly sales remain consistent with minor fluctuations—indicating stable year-round demand.
