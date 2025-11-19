@@ -13,3 +13,4 @@ Identify top-performing product categories during the Diwali season.
 Understand monthly and state-wise sales distribution.
 
 Improve business strategy, logistics, and customer experience.
+## Key Features of the Dashboard
